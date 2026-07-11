@@ -1,0 +1,2 @@
+sath me sql ki preparation krni hogi  backend aur data manupulation ke liye
+learn how sql command perform in database work bench 
